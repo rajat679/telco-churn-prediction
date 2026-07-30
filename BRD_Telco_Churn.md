@@ -12,6 +12,6 @@ The dataset name is CustomerChurn with (7,043 rows *21 columns).We need to predi
 
 ## 4. Key Hypotheses (to test in Week 2 EDA)
 -> Month-to-month contract customers will churn more —: because they have no lock-in period, so leaving has zero penalty compared to someone in a 1-2 year contract.
-Customers paying by mailed/electronic check will churn more than automatic payment -> methods —: because manual payment requires active effort each month, meaning less "friction" to also cancel, whereas automatic payment is a passive habit that's easier to just... continue.
+->Customers paying by mailed/electronic check will churn more than automatic payment -> methods —: because manual payment requires active effort each month, meaning less "friction" to also cancel, whereas automatic payment is a passive habit that's easier to just... continue.
 -> New customers (low tenure) will churn more —: because they haven't yet built loyalty or gotten used to the service; the first few months are the highest-risk window before someone becomes a "settled" customer.
 -> Customers without add-on services (Tech Support, Online Security) will churn more —: because fewer services mean fewer reasons to stay ("switching cost" is lower) and less perceived value from the subscription.
